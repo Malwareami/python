@@ -1,0 +1,6 @@
+harshit,20,harshit@gmail.com,Male,PY_VAR4,YES
+a,22,a@gmail.com,Male,PY_VAR4,YES
+a,22,a@gmail.com,Male,PY_VAR4,YES
+a,23,a@gmail.com,Male,PY_VAR4,YES
+a,23,a@gmail.com,other,PY_VAR4,NO
+,,,Male,PY_VAR4,YES
